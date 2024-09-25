@@ -1,0 +1,36 @@
+
+.top-bar-heading{
+  font-size: 14px;
+}
+
+.arrow{        
+color: white;
+height: 10px;
+cursor: pointer;
+}
+
+.arrow:hover{
+  height: 12px;
+}
+.nav-link:hover{
+  color: white !important;
+  text-decoration: underline;
+}
+
+.footer-1-content:hover{
+  color: white !important;
+}
+
+.footer-2{
+  height: 160px;
+  color:rgba(255, 255, 255, 0.75);
+  font-size: 13.2px;
+  letter-spacing: 0.9px;
+}
+
+.footer-2-content:hover{
+  cursor: pointer;
+  color: white !important ;
+}
+
+
